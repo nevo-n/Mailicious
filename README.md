@@ -1,10 +1,5 @@
 # Mailicious
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Mailicious repos](#Mailicious repos)
-
 ## Introduction
 
 Mailicious is a Mail Detection as a Service security solution. It provides detection & prevention capabilities for organization mails. Mailicious is composed of 3 major components, each one with an own Github repository.
